@@ -2,7 +2,7 @@
 
 ## Documentación en swagger
 
-La documentación del api esta disponible en el suguiente enlace -> [swagger](http://localhost:8080/webjars/swagger-ui/index.html#/)
+La documentación del api esta disponible en el suguiente enlace -> [swagger](http://18.118.141.234:8080/webjars/swagger-ui/index.html#/)
 
 ## Uso General del api
 
